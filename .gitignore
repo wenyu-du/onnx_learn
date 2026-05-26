@@ -1,1 +1,5 @@
 onnx_env/*
+*.onnx
+*.mp4
+
+

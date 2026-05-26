@@ -8,6 +8,7 @@
 - `02_pytorch_to_onnx/`: PyTorch 模型导出为 ONNX 的实战代码。
 - `03_model_validation/`: ONNX 模型验证与可视化。
 - `04_inference_runtime/`: 使用 ONNX Runtime 进行推理。
+- `05_lerobot_to_onnx/`: 实战：LeRobot 机器人模型转换与仿真推理。
 - `scripts/`: 环境搭建脚本。
 
 ## 环境准备
@@ -57,4 +58,3 @@ pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
 
 ## 推荐工具
 - **Netron**: 用于可视化 ONNX 模型结构。 [https://netron.app/](https://netron.app/)
-
